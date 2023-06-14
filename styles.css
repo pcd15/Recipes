@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.flex {
+    flex: 1;
+    border: 5px solid black;
+    text-align: center;
+    margin: 0 5px;
+}
+
+.home {
+    font-weight: bold;
+    display: block;
+    color: orange;
+}
+
+.image {
+    width: 600px;
+    height: auto;
+    border: 10px solid black;
+    margin: 10px auto;
+    display: block;
+}
+
+.patrick {
+    color: rgb(230, 151, 164);
+}
+
+.center-text {
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.mac {
+    color: orange;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+    margin: 5px auto;
+}
+
+.space {
+    margin: 5px auto;
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.love {
+    color: red;
+}
+
+.font {
+    font-family: cursive;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+.header {
+    font-size: 50px;
+}
